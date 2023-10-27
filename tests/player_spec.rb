@@ -1,5 +1,5 @@
 require 'test/unit'
-require_relative '../player.rb'  # Adjust the relative path as needed
+require_relative '../player.rb'
 require_relative '../question.rb'
 
 class TestPlayer < Test::Unit::TestCase
